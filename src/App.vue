@@ -7,6 +7,7 @@
                 <hr>
                 <!-- load router components here -->
                 <router-view></router-view>
+<!--                <router-view name="header-top"></router-view>-->
             </div>
         </div>
     </div>
